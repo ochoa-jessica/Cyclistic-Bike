@@ -102,7 +102,7 @@
 <p>Considering the short trips, this could indicate that members use Cyclistic's bikes to commute, and perhaps, run errands. The drop in ride length over the winter months could indicate that members choose other means of transportation to commute during that time of the year. In contrast, casual riders could be using it for leisure or tourism - as mentioned earlier - especially during the spring and summer.</p>
 
 #### Visualizing the total number of rides per hour
-![Total Num Of Rides Per Hour](Images/PTotal_Num_Rides_Per_Hour.png)
+![Total Num Of Rides Per Hour](Images/Total_Num_Rides_Per_Hour.png)
 <p>By taking a closer look into the total num of rides per hour can help in finding more patterns in the customer's bike rental habits. The <b>num of bike rentals by casual riders begins to increase between 8:00 a.m. and 10:00 a.m., peaking at 5 p.m. As for the members, the numbers start to go up earlier - between 6 a.m. and 7 a.m. also peaking at 5:00 p.m.</b> Notice that the num of rides by members is far greater than casual riders. This could be related to the fact that members represent the majority of users and likely use Cyclistic's services for their daily commute.</p>
 
 ## 6. ACT
